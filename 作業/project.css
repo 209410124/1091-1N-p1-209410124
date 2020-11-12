@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.post{
+    background-image: url(./22c177de_E882208_1fe29184.png);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.a{
+    background-image: url(../mitch-boehn-shnM8DMlBiw-unsplash.jpg);
+}
